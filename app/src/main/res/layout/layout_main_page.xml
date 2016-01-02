@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/fl_fragment_action_bar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+         />
+    
+	<android.support.v4.widget.DrawerLayout
+	    android:id="@+id/dl_action_view"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_below="@id/fl_fragment_action_bar_container"
+	    >
+    <FrameLayout
+        android:layout_below="@id/fl_fragment_action_bar_container"
+        android:id="@+id/fl_homepage_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         
+         />
+    <ListView
+        android:id="@+id/lv_action_view"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:choiceMode="singleChoice"
+        android:background="@mipmap/home_navibar_tips_bg"
+         />
+	</android.support.v4.widget.DrawerLayout>
+    <RadioGroup
+        android:id="@+id/rg_main_page_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/rg_main_page_menu_backgroud"
+		
+        android:gravity="center"
+        android:orientation="horizontal" >
+		
+        <RadioButton
+            android:id="@+id/rb_main_page"
+        	android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:checked="true"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/my_main_page_selectors"
+            android:gravity="center_horizontal"
+            android:text="@string/my_main_page" />
+			
+        <RadioButton
+            
+        	android:layout_weight="1"
+            android:id="@+id/rb_flash_and_group_buy"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawablePadding="5dp"
+            android:gravity="center_horizontal"
+            
+            android:drawableTop="@drawable/flash_and_group_buy_selector"
+            android:text="@string/flash_and_group_buy" />
+
+        <RadioButton
+        	android:layout_weight="1"
+            android:id="@+id/rb_decover"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/descover_selector"
+            android:text="@string/descover" 
+            android:gravity="center_horizontal"
+            
+            />
+
+        <RadioButton
+        	android:layout_weight="1"
+            android:id="@+id/rb_mine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/mine_selector"
+            android:text="@string/mine"
+            android:gravity="center_horizontal"
+             
+             />
+    </RadioGroup>
+
+</RelativeLayout>

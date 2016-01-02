@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/mini_fullscreen_switch_normal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_current_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@mipmap/wheel_val"
+        android:textColor="@color/text_less_blue_c"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_switch_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@mipmap/wheel_val"
+        android:text="@string/switch_city"
+        android:textColor="@color/text_orange"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/location_popup_window.xml -->

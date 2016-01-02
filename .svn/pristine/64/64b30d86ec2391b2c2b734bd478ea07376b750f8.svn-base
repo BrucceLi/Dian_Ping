@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal" >
+
+    <TextView
+        android:id="@+id/tv_top_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@null"
+        android:drawableLeft="@mipmap/ump_header_back_btn_normal"
+        android:drawableStart="@mipmap/ump_header_back_btn_normal"
+        android:gravity="center|center_horizontal"
+        android:paddingEnd="35dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="35dp"
+        android:paddingStart="0dp"
+        android:text="@string/app_name_title"
+        android:textColor="@color/text_black" />
+
+    <View
+        android:id="@+id/actionbar_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/tv_top_title"
+        android:background="@color/text_orange" />
+
+    <RelativeLayout
+        android:id="@+id/input_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/actionbar_bottom"
+        android:layout_marginTop="20dp" >
+
+        <EditText
+            android:id="@+id/et_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@color/text_white"
+            android:drawableLeft="@mipmap/more_icon_none"
+            android:drawablePadding="10dp"
+            android:drawableStart="@mipmap/more_icon_none"
+            android:hint="@string/username"
+            android:inputType="text"
+            android:padding="10dp" />
+
+        <View
+            android:id="@+id/divier1"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@id/et_username"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:background="#999999" />
+
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/divier1"
+            android:background="@color/text_white"
+            android:drawableLeft="@mipmap/more_settings_u"
+            android:drawablePadding="10dp"
+            android:drawableStart="@mipmap/more_settings_u"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:padding="10dp" />
+
+        <View
+            android:id="@+id/divier2"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@id/et_password"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:background="#999999" />
+
+        <LinearLayout
+            android:id="@+id/ll_checking"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/divier2"
+            android:background="@null"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/et_checkcode"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="4"
+                android:background="@color/text_white"
+                android:drawableLeft="@mipmap/login_ver"
+                android:drawablePadding="10dp"
+                android:drawableStart="@mipmap/login_ver"
+                android:hint="@string/checkcode"
+                android:inputType="text"
+                android:padding="10dp" />
+
+            <TextView
+                android:id="@+id/tv_check_code"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_marginStart="1dp"
+                android:layout_weight="2"
+                android:background="@color/white_backgroud"
+                android:gravity="center"
+                android:textColor="@color/text_orange"
+                android:textSize="25sp"
+                android:textStyle="bold|italic"
+                android:typeface="serif" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/divier3"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@id/ll_checking"
+            android:background="#999999" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_login_to_dianping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/input_form"
+        android:layout_margin="15dp"
+        android:background="@drawable/login_btn_bg_selector"
+        android:gravity="center"
+        android:text="@string/login"
+        android:textColor="@color/text_white" />
+
+    <Button
+        android:id="@+id/btn_forget_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/btn_login_to_dianping"
+        android:background="@null"
+        android:gravity="end"
+        android:paddingEnd="0dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="0dp"
+        android:paddingStart="15dp"
+        android:text="@string/forget_pass_word"
+        android:textColor="@color/text_blue_c" />
+
+    <Button
+        android:id="@+id/btn_login_by_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/btn_login_to_dianping"
+        android:layout_marginTop="5dp"
+        android:background="@null"
+        android:gravity="start"
+        android:paddingEnd="15dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="15dp"
+        android:paddingStart="0dp"
+        android:text="@string/login_with_phone_number"
+        android:textColor="@color/text_blue_c" />
+
+    <TextView
+        android:id="@+id/tv_more_ways"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@null"
+        android:drawableBottom="@mipmap/title_arrow_down_normal"
+        android:gravity="center"
+        android:text="@string/more_acount" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tv_more_ways"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@null"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll_login_by_weixin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_weight="1"
+            android:background="@mipmap/movie_screen"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@null"
+                android:contentDescription="@null"
+                android:gravity="center"
+                android:padding="6dp"
+                android:src="@mipmap/share_to_icon_wx" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:gravity="center"
+                android:paddingEnd="20dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingStart="20dp"
+                android:text="@string/login_with_weixin" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_login_by_QQ"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@mipmap/movie_screen"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@null"
+                android:contentDescription="@null"
+                android:gravity="center"
+                android:padding="6dp"
+                android:src="@mipmap/share_to_icon_qq" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:gravity="center"
+                android:paddingEnd="20dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingStart="20dp"
+                android:text="@string/login_with_weixin" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/layout_login.xml -->

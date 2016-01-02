@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ump_header_back_btn_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ump_header_back_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\mc_product_detail_bkg.jpg",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\mc_product_detail_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\jiazhuang.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\jiazhuang.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\grouponshan.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\grouponshan.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\title_shadow.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\title_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\movie.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\movie.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\location_marker.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\location_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\wed_load_arrow_left.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\wed_load_arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\waimai.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\waimai.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\share_to_icon_qq.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\share_to_icon_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\share_to_icon_wx.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\share_to_icon_wx.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\logo_alipay_mine.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\logo_alipay_mine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\food.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\portrait_def.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\portrait_def.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\reload.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_phone_big.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_phone_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\golden_star.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\golden_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\movie_screen.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\movie_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\my_discount_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\my_discount_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\zeus_tab_left_press.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\zeus_tab_left_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\title_arrow_down_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\title_arrow_down_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\my_favorite_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\my_favorite_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\profile_default.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\profile_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\coffee.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\coffee.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\my_card_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\my_card_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\baby.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\baby.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pet.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\pet.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\shoppingmall.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\shoppingmall.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\zeus_tab_left_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\zeus_tab_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\personal_icon_arrow.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\personal_icon_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\beauty.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\beauty.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\zhang_order_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\zhang_order_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\sport_s.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\sport_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\personal_frame_off.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\personal_frame_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\hotel.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\imarry.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\imarry.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\xiuxian.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\xiuxian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\icon_review_edit.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\icon_review_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\share_to_icon_weibo.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\share_to_icon_weibo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\footer.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\footer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_navibar_tips_icon_store.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\home_navibar_tips_icon_store.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\btn_plus_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\btn_plus_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\img_null.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\img_null.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\homework.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\homework.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\personal_frame_on.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\personal_frame_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\jingdian.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\jingdian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_navibar_tips_icon_scan.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\home_navibar_tips_icon_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ktv.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ktv.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\more.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\personal_bkg.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\personal_bkg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pin_green.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\pin_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\car.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\arrow_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\arrow_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_add_icon_pay.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\home_add_icon_pay.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_back_white.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\golden_star_half.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\golden_star_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\icon_phone.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\icon_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bookingonline_add.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\bookingonline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\btn_light_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\btn_light_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\hospital.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\zeus_tab_right_press.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\zeus_tab_right_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\address_btn_selected.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\address_btn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\zeus_tab_right_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\zeus_tab_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_btn_search.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_btn_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\my_history_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\my_history_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\mini_fullscreen_switch_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\mini_fullscreen_switch_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_navibar_tips_icon_comment.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\home_navibar_tips_icon_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\yanchu.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\yanchu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\house.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\house.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\playaround.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\playaround.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bangdan_green.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\bangdan_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\my_setting_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\my_setting_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\gray_star.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\gray_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pop_info_window_1.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\pop_info_window_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\my_coupon_user_icon_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\my_coupon_user_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\discount.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\discount.png"
+    }
+]

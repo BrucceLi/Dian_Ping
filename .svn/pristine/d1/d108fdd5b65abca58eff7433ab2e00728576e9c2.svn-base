@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_white">#ffffff</color>
+    <color name="white_backgroud">#ffffff</color>
+    <color name="global_ThemeColor">#ff6f21</color>
+    <color name="rg_main_page_menu_backgroud">#949494</color>
+    <color name="android_backgound">#EDEDED</color>
+    <color name="text_less_black_c">#0F0F0F</color>
+    <color name="text_orange">#FFAE00</color>
+    <color name="text_less_blue_c">#0015FF</color>
+    <color name="text_blue_c">#3B30FF</color>
+
+</resources>

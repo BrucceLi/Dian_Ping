@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\src\main\res"><file path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="RippleView">
+        <attr format="integer" name="rv_alpha"/>
+        <attr format="integer" name="rv_framerate"/>
+        <attr format="integer" name="rv_rippleDuration"/>
+        <attr format="integer" name="rv_zoomDuration"/>
+        <attr format="color" name="rv_color"/>
+        <attr format="boolean" name="rv_centered"/>
+        <attr format="enum" name="rv_type">
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr>
+        <attr format="dimension" name="rv_ripplePadding"/>
+        <attr format="boolean" name="rv_zoom"/>
+        <attr format="float" name="rv_zoomScale"/>
+
+    </declare-styleable></file><file path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\src\main\res\values\colors.xml" qualifiers=""><color name="rippelColor">#FFFFFF</color></file><file path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style></file></source><source path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\build\generated\res\rs\debug"/><source path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Administrator.PC-20151112MNXJ\AndroidStudioProjects\MyApplication2\library\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type"><enum name="simpleRipple" value="0"/><enum name="doubleRipple" value="1"/><enum name="rectangle" value="2"/></attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/><attr format="float" name="rv_zoomScale"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_login"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@mipmap/personal_bkg" >
+
+    <ImageView
+        android:id="@+id/iv_login_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:contentDescription="@null"
+        android:src="@drawable/no_logined_icon_layerlist" />
+
+    <LinearLayout
+        android:id="@+id/ll_login_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/iv_login_icon"
+        android:layout_toRightOf="@id/iv_login_icon"
+        android:background="@null"
+        android:gravity="center_vertical|start"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_login_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:background="@null"
+            android:drawableBottom="@mipmap/title_shadow"
+            android:shadowColor="@color/text_black"
+            android:shadowDx="1"
+            android:shadowDy=".5"
+            android:shadowRadius="5"
+            android:text="@string/kick_go_login"
+            android:textColor="@color/text_white"
+            android:textSize="16sp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:id="@+id/tv_changjudi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:shadowColor="@color/text_black"
+            android:shadowDx="1"
+            android:shadowDy=".5"
+            android:shadowRadius="5"
+            android:text="@string/changjudi"
+            android:textColor="@color/text_white"
+            android:textSize="12sp"
+            android:typeface="monospace" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_login"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@null"
+        android:layout_marginRight="20dp"
+        android:src="@mipmap/personal_icon_arrow" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/layout_mine_actionbar.xml -->

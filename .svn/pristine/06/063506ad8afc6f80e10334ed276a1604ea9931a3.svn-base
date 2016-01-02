@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item android:state_pressed="true" android:drawable="@color/smssdk_gray_press" /> 
+  <!-- 默认时的背景图片-->    
+  <item android:drawable="@color/smssdk_white" /> 
+</selector>
+<!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/smslibrary/src/main/res/drawable/smssdk_country_bg_selector.xml --><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/MyApplication2/smslibrary/unspecified/res/drawable/smssdk_country_bg_selector.xml -->

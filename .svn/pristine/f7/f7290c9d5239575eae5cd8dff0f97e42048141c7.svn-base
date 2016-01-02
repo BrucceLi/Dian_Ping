@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">    
+	<item  android:state_checked="true" android:color="#ffffff" />
+	<item  android:state_checked="false" android:color="#ff6f21" />
+</selector>
+<!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/global_tab_textcolor_selector.xml -->

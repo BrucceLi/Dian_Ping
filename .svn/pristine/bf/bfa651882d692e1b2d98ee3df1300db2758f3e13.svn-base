@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@mipmap/main_index_my_pressed" android:state_checked="true"/>
+    <item android:drawable="@mipmap/main_index_my_normal" android:state_checked="false"/>
+
+</selector><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/mine_selector.xml -->

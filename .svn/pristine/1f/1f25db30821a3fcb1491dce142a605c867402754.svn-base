@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_backgroud"
+    >
+	<LinearLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+        android:focusableInTouchMode="false"
+        android:focusable="false"
+	    android:id="@+id/ll_wrapper"
+	    android:gravity="top"
+	    android:layout_alignParentTop="true"
+	     >
+   <ImageView
+        android:id="@+id/iv_downlaod_icon"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="false"
+        android:contentDescription="@null"
+        android:focusableInTouchMode="false"
+        android:focusable="false"
+        android:src="@mipmap/img_null" />
+</LinearLayout>
+
+        <RelativeLayout
+            android:layout_toRightOf="@id/ll_wrapper"
+            android:layout_toEndOf="@id/ll_wrapper"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+           android:layout_alignParentTop="true"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false" >
+
+           <TextView
+                android:id="@+id/tv_short_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textColor="@color/text_black"
+               android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_product_title"
+                android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+               android:layout_alignParentStart="true"
+                android:layout_below="@id/tv_short_title"
+                android:layout_marginTop="3dp"
+                android:clickable="false"
+               android:ellipsize="end"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:lines="3"
+               android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_price"
+               android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+               android:layout_below="@id/tv_product_title"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+               android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="top|center_horizontal"
+               android:textColor="@color/text_orange"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_product_title"
+                android:layout_marginLeft="9dp"
+                android:layout_marginStart="9dp"
+                android:layout_marginTop="5dp"
+                android:layout_toEndOf="@id/tv_price"
+               android:layout_toRightOf="@id/tv_price"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="bottom|center_horizontal"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_toLeftOf="@+id/textview_count"
+                android:layout_toStartOf="@+id/textview_count"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+               android:text="@string/saled_count"
+                android:textColor="@color/text_black"
+                android:textSize="15sp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@id/textview_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/tv_value"
+                android:layout_marginEnd="15dp"
+                android:layout_marginRight="15dp"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="bottom|center_vertical"
+                android:textColor="@color/text_less_blue_c"
+               android:textSize="12sp" />
+        </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/goods_list_item.xml -->

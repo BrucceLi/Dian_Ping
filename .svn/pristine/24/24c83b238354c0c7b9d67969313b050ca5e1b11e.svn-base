@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item  android:state_pressed="false" android:drawable="@mipmap/btn_weight_normal" />
+    <item  android:state_pressed="true" android:drawable="@mipmap/btn_weight_press" />
+
+</selector>
+<!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/login_btn_bg_selector.xml -->

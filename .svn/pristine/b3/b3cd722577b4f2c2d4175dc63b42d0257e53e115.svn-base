@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/global_ThemeColor" >
+    <Button 
+        android:id="@+id/btn_preview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+    	android:text="@string/group_buy"
+   	    android:textColor="@color/text_white"
+    	android:textSize="20sp"
+         />
+
+</LinearLayout><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/actionbar_group_buy.xml -->

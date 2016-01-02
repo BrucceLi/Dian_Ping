@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_tuan_pressed.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_tuan_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_my_pressed.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_my_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_search_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_search_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_home_pressed.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_home_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_tuan_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_tuan_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_weight_press.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\btn_weight_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_my_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_my_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_weight_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\btn_weight_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_search_pressed.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_search_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\main_index_home_normal.png",
+        "source": "C:\\Users\\Administrator.PC-20151112MNXJ\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\main_index_home_normal.png"
+    }
+]

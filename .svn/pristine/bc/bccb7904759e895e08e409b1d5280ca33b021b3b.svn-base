@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="1dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_my_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white_backgroud"
+        android:drawablePadding="10dp"
+        android:gravity="start"
+        android:padding="10dp"
+        android:textColor="@color/text_black"
+        android:textSize="18sp" />
+
+</LinearLayout><!-- From: file:/C:/Users/Administrator.PC-20151112MNXJ/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/list_item_mine_settings.xml -->

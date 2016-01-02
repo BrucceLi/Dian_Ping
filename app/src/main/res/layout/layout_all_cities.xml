@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:background="@color/white_backgroud"
+        android:orientation="horizontal"
+        android:id="@+id/ll_list_wrapper"
+         >
+
+        <Button
+            android:id="@+id/btn_backpress"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:clickable="true"
+            android:background="@drawable/selector_prev_view_button" />
+
+        <RadioGroup
+            android:id="@+id/rg_range_of_citys_selection"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_weight="4"
+            android:gravity="start"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rbtn_gloable"
+                android:layout_width="80dp"
+                android:layout_height="32dp"
+                android:layout_gravity="start"
+                android:background="@drawable/radiobutton_gloable_main_selector"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="@string/global"
+                android:textColor="@drawable/global_tab_textcolor_selector" />
+
+            <RadioButton
+                android:id="@+id/rbtn_foreign"
+                android:layout_width="80dp"
+                android:layout_height="32dp"
+                android:layout_gravity="end"
+                android:background="@drawable/radiobutton_foreign_main_selector"
+                android:button="@null"
+                android:checked="false"
+                android:gravity="center"
+                android:text="@string/foreign"
+                android:textColor="@drawable/global_tab_textcolor_selector" />
+        </RadioGroup>
+    </LinearLayout>
+  	<TextView 
+  	    android:layout_centerInParent="true"
+  	    android:layout_width="wrap_content"
+  	    android:layout_height="wrap_content"
+  	    android:background="@android:color/transparent"
+  	    android:textColor="@color/text_black"
+  	    android:textSize="24sp"
+  	    android:id="@+id/tv_show_city_key"
+  	    
+  	    />
+    <RelativeLayout
+       	android:layout_below="@id/ll_list_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+     
+        
+        <com.dianping.view.SiderMenu
+		
+            android:id="@+id/sm_selector"
+            android:clickable="true"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+	
+</RelativeLayout>
