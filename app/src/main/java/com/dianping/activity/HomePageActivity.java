@@ -10,8 +10,10 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
 import android.view.LayoutInflater;
+import android.view.Menu;
 import android.view.View;
 import android.view.WindowManager;
 import android.view.View.OnClickListener;
@@ -66,7 +68,7 @@ public class HomePageActivity extends BaseActivity implements
     @SystemService
     LayoutInflater inflater;
 
-   
+
     LocationManagerProxy locationManager;
 
 
@@ -115,6 +117,9 @@ public class HomePageActivity extends BaseActivity implements
         rg_main_page_menu.setOnCheckedChangeListener(this);
     }
 
+
+
+
     //drawerLayout的菜单点击事件
     @ItemClick
     public void lv_action_viewItemClicked() {
@@ -130,7 +135,12 @@ public class HomePageActivity extends BaseActivity implements
         btn_current_city = (Button) ll.findViewById(R.id.btn_current_city);
         window = new PopupWindow(ll, 300,
                 WindowManager.LayoutParams.WRAP_CONTENT, true);
-        window.setBackgroundDrawable(getResources().getDrawable(R.mipmap.pop_info_window_1));
+        btn_current_city.setOnClickListener(this);
+        btn_switch_city.setOnClickListener(this);
+    }
+
+    void initListener()
+    {
 
     }
 
@@ -189,13 +199,9 @@ public class HomePageActivity extends BaseActivity implements
     }
 
 
-    //popupWindow的监听
-    @Click({R.id.btn_switch_city,R.id.btn_current_city,R.id.btn_switch_city})
+    @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.btn_preview:
-                AllCityActivity_.intent(this).start();
-                break;
             case R.id.btn_current_city:
                 window.dismiss();
                 break;
@@ -284,7 +290,7 @@ public class HomePageActivity extends BaseActivity implements
 
         }else
         {
-            Toast.makeText(this,"网络不给力",Toast.LENGTH_LONG).show();
+            showToast("网络不给力");
         }
         releaseLocationManager();
         //通知菜单改变城市名称
@@ -305,7 +311,8 @@ public class HomePageActivity extends BaseActivity implements
 
     public void onEvent(NetEvent event)
     {
-        Toast.makeText(this,event.Msg,Toast.LENGTH_LONG).show();
+
+        showToast(event.Msg);
     }
 
 
