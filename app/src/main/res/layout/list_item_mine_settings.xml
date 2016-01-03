@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.andexert.library.RippleView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginTop="1dp"
-    android:orientation="vertical" >
-
+    app:rv_color="@color/global_ThemeColor"
+    app:rv_rippleDuration="100"
+    >
     <TextView
         android:id="@+id/tv_my_form"
         android:layout_width="match_parent"
@@ -15,5 +17,4 @@
         android:padding="10dp"
         android:textColor="@color/text_black"
         android:textSize="18sp" />
-
-</LinearLayout>
+    </com.andexert.library.RippleView>
