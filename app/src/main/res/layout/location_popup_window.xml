@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@mipmap/mini_fullscreen_switch_normal"
+    android:background="@color/colorGrey"
     android:orientation="vertical" >
 
     <Button
@@ -11,8 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:layout_marginTop="20dp"
-        android:background="@mipmap/wheel_val"
-        android:textColor="@color/text_less_blue_c"
+        android:background="@color/global_ThemeColor"
+        android:textColor="@color/text_white"
         android:textSize="20sp"
         android:textStyle="bold" />
 
@@ -22,9 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
         android:layout_marginTop="10dp"
-        android:background="@mipmap/wheel_val"
         android:text="@string/switch_city"
-        android:textColor="@color/text_orange"
+        android:textColor="@color/global_ThemeColor"
         android:textSize="20sp"
         android:textStyle="bold" />
 
