@@ -51,8 +51,7 @@ import org.androidannotations.annotations.ViewById;
 @EActivity(R.layout.layout_login)
 public class LoginActivity extends BaseActivity implements
         PlatformActionListener {
-    @ViewById
-    TextView tv_more_ways;
+
     @ViewById
     TextView tv_check_code;
     @ViewById
@@ -70,27 +69,11 @@ public class LoginActivity extends BaseActivity implements
     @ViewById
     LinearLayout ll_login_by_weixin;
 
-    PopupWindow window;
 
     @Override
     protected void initVariables() {
-        View view = LayoutInflater.from(this).inflate(R.layout.popup_window,
-                null, false);
-        //popupWindow
-        window = new PopupWindow(view, WindowManager.LayoutParams.MATCH_PARENT,
-                WindowManager.LayoutParams.WRAP_CONTENT, true);
-        window.setBackgroundDrawable(getResources().getDrawable(
-                R.mipmap.pop_info_window_1));
         String str = SharedUtils.getRandomCode();
         tv_check_code.setText(str);
-
-        window.setTouchInterceptor(new OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                v.performClick();
-                return true;
-            }
-        });
     }
 
 
@@ -99,12 +82,9 @@ public class LoginActivity extends BaseActivity implements
             R.id.ll_login_by_QQ,
             R.id.ll_login_by_weixin,
             R.id.tv_check_code,
-            R.id.tv_more_ways})
+            })
     public void clicked(View v) {
         switch (v.getId()) {
-            case R.id.tv_more_ways:
-                window.showAtLocation(tv_more_ways, Gravity.BOTTOM, 0, 100);
-                break;
             case R.id.tv_check_code:
                 String str = SharedUtils.getRandomCode();
                 tv_check_code.setText(str);
